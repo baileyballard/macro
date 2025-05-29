@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Macro Dashboard</title>
+</head>
+<body>
+  <h1>Live Macroeconomic Indicators</h1>
+  <div id="data">Loading data...</div>
+
+  <script>
+    // Placeholder for API data
+    document.getElementById("data").innerText = "GDP: Loading...\nInflation: Loading...";
+  </script>
+</body>
+</html>
